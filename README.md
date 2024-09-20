@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Ruan Esterhuizen
 
-**`Computer Science Student`**
-
+**`Computer Science Student, University of Pretoria`**
 
 <br />
 
@@ -24,6 +23,7 @@
 
 <br />
 <br/>
+
 
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RuanEsterhuizen&theme=dark&hide_border=false)<br/>
