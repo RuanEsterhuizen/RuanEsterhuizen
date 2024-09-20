@@ -3,9 +3,6 @@
 **`Computer Science Student`**
 
 
-## 💫 About Me
-University of Pretoria Computer Science Undergraduate (2nd year)
-
 <br />
 
 ## 💻 Languages and Technologies
