@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ruan Esterhuizen
+# 👋 Hello, I'm Ruan
 
 **`Computer Science Student, University of Pretoria`**
 
